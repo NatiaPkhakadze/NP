@@ -1,0 +1,153 @@
+ /*fontebi*/
+ h2 {
+ 	text-transform: uppercase;
+ 	font-size: 24px;
+ 	line-height: 20px;
+ }
+ body {
+ 	padding-top: 80px;
+ }
+ .time {
+ 	display: inline-block;
+ }
+.BG-color{
+	background-color: #F6F8F9;
+}
+.header-wrapper {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.header{
+  background-color:#F6F8F9;
+  color: white;
+}
+.LOGO{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+.li-1 {
+    display: inline-block;
+    color: black;
+}
+
+.image-bar-1{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160px;
+	height: 410px;
+	
+
+}
+.box-1{
+	display: inline-block;
+	width: 360px;
+	height: 350px;
+	background-color: #FFFFFF;
+}
+
+
+.small-box1{
+	display: inline-block;
+	width: 360px;
+	height: 180px;
+	box-sizing: border-box;
+
+}
+.title-1{
+	font-family: 'Helvetica';
+	font-size: 24px;
+	color: black;
+
+}
+.list-item{
+	font-size: 11px;
+	color: #343638;
+}
+.image-bar-2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160px;
+	height: 900px;
+}
+.box-2{
+	display: inline-block;
+	width: 69%;
+	padding-right: 20px;
+	/*background-color: #FFFFFF;*/
+}
+.box-3 {
+	padding-left: 20px;
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+}
+
+.small-box2{
+	display: inline-block;
+	vertical-align: center;
+	width: 360px;
+	height: 180px;
+	/*background-color: yellow;*/
+}
+./*small-box3{
+	display: inline-block;
+	vertical-align: center;
+	width: 360px;
+	height: 180px;
+	/*background-color: yellow;*/
+}*/
+/*picture position*/
+.mountine{
+	margin: 360px 0px 180px 0px;
+}
+.parrot{
+	width: 360px;
+	height:210px;
+	margin:102px 140px 102px 40px ;
+	box-sizing: border-box;
+}
+.elephant{
+	width: 360px;
+	height:210px;
+	margin: 40px 140px 0px 40px;
+	box-sizing: border-box;
+}
+.mussak{
+	width: 360px;
+	height:210px;
+	margin: 0px 40px;
+}
+.box-image-1{
+	width: 100%;
+	margin-bottom: 40px;
+}
+.box-image-2{
+	width: 100%;
+
+}
+.box-image-3{
+	width: 100%;
+	margin-bottom: 102px;
+}
+ .box-image-4{
+	width: 100%;
+	margin-bottom: 102px;
+}
+.box-image-5{
+	width: 100%;
+	
+}
+.image-2{
+	width: 100%;
+	margin-right: 40px;
+}
+

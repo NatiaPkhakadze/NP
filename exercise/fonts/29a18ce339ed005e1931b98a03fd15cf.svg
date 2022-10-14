@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20200427 at Thu Jan  1 08:00:00 1970
+ By www
+Copyright (c) 1985, 1987, 1989, 1990 Adobe Systems Incorporated.  All rights reserved.Helvetica is a trademark of Linotype AG and/or its subsidiaries.
+</metadata>
+<defs>
+<font id="NCFKEA+Helvetica" horiz-adv-x="556" >
+  <font-face 
+    font-family="NCFKEA+Helvetica"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="26 -19 519 703"
+    underline-thickness="50"
+    underline-position="-150"
+    unicode-range="U+0030-FFFD"
+  />
+<missing-glyph 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".notdef" unicode="&#xfffd;" 
+d="M33 0v666h265v-666h-265zM66 33h199v600h-199v-600z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" 
+ />
+    <glyph glyph-name="zero" unicode="0" 
+d="M425 342q0 282 -147 282t-147 -282t147 -282t147 282zM519 342q0 -49 -5.5 -94t-21.5 -95.5t-41.5 -87t-70 -60.5t-102.5 -24t-102.5 24t-70 60.5t-41.5 87t-21.5 95.5t-5.5 94t5.5 94t21.5 95.5t41.5 87t70 60.5t102.5 24t102.5 -24t70 -60.5t41.5 -87t21.5 -95.5
+t5.5 -94z" />
+    <glyph glyph-name="two" unicode="2" 
+d="M132 451h-88q0 65 18.5 113.5t44.5 74.5t62 41t63 19t55 4q94 0 157 -57t63 -153q0 -45 -13.5 -81t-42.5 -64t-57 -46.5t-75 -43.5l-73 -40q-110 -61 -121 -135h382v-83h-481q4 103 46 168.5t119 110.5l93 54q38 22 53.5 32t37.5 30.5t30 44.5t8 57q0 50 -34 88.5
+t-105 38.5q-38 0 -65.5 -14.5t-41 -31.5t-22 -46t-10.5 -43t-3 -38z" />
+  </font>
+</defs></svg>
